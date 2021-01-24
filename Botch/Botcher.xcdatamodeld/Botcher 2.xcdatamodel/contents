@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="20A5395g" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="Botcher">
+    <entity name="Category" representedClassName=".Category" syncable="YES" codeGenerationType="category">
+        <attribute name="identifier" optional="YES" attributeType="String"/>
+        <attribute name="modificationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="pinned" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="results" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String]"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="titleBackground" optional="YES" attributeType="String"/>
+        <attribute name="titleColor" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Category" positionX="-45" positionY="-45" width="128" height="134"/>
+    </elements>
+</model>

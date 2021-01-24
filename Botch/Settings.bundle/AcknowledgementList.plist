@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>File</key>
+			<string>Acknowledgements3</string>
+			<key>Title</key>
+			<string>SwiftyStoreKit</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>UIColor-Hex-Swift</string>
+			<key>File</key>
+			<string>Acknowledgements2</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>File</key>
+			<string>Acknowledgements</string>
+			<key>Title</key>
+			<string>ChromaColorPicker</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

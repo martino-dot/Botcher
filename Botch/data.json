@@ -1,0 +1,206 @@
+{
+          "categories": [
+              {
+                 "Title": "🍔  Fast Food",
+                 "Results": [
+                     "Eat A Burger", "Eat Chicken nuggets", "Eat Some Fries", "Eat A Sandwich", "Eat Some Tacos",
+                                  "Eat A Hotdog", "Eat A Wrap", "Eat A Hashbrown", "Eat Some Nachos", "Eat Some Pizza",
+                                  "Eat Some Chicken", "Eat A Slider", "Go To Wingstop", "Go To Noodles & Co.",
+                                  "Go To Steak n Shake", "Go To BWW", "Go To Sonic", "Go To Del Taco", "Go To Panda Express",
+                                  "Go To Panera Bread", "Go To Fire House Subs", "Go To Krispy Kreme", "Go To Potbelly",
+                                  "Go To Taco Bell", "Go To McDonald's", "Go To Arby's", "Go To Portillos", "Go To Burger King",
+                                  "Go To Five Guys", "Go To Subway", "Go To Smashburger", "Go To Culver's", "Go To Chipotle",
+                                  "Go To In-N-Out", "Go To White Castle", "Go To Pizza Hut", "Go To Starbucks", "Go To Auntie Anne's",
+                                  "Go To Carl's Jr", "Go To Jimmy Johns", "Go To Dunkin'", "Go To Wendy's", "Go To Dairy Queen",
+                                  "Go To Denny's", "Go To Jack In The Box", "Go To KFC", "Go To Chik-Fil-A", "Go To Popeyes",
+                                  "Go To Hardee's", "Go To Jersey Mike's Subs"
+                 ],
+                 "Title_Color": "#804F4FFF",
+                 "Background_Color": "#FFC6CEFF"
+                 
+             },
+             {
+                 "Title": "🍣  Restaurant",
+                 "Results": [
+                     "Eat A Steak", "Eat Fish", "Eat Sushi", "Eat Some Pizza", "Eat Some Soup", "Eat Mac & Cheese",
+                                  "Eat Some Chicken", "Eat Some Curry", "Eat Some Rice", "Eat A Taco", "Eat A Burrito", "Eat A Poke Bowl", "Eat A Salad", "Eat A Sandwich", "Eat Some Porkchops", "Eat Mashed Potatoes", "Eat Some Pasta", "Eat A Spring Roll", "Eat A Rice Bowl", "Eat A Shakshuka", "Eat A Calzone",
+                                  "Eat Some Wings", "Eat Some Hotdogs", "Eat Some Ribs", "Eat A Wrap", "Eat Some Shrimp",
+                                  "Eat Lobster", "Eat Crab", "Eat Beef"
+                 ],
+                 "Title_Color": "#FFABEAFF",
+                 "Background_Color": "#5E5CE6FF"
+             },
+             {
+                 "Title": "🍩  Desert",
+                 "Results": [
+                     "Eat Some Cake", "Eat A Cookie", "Eat Ice Cream", "Eat Some Chocolate", "Eat A Brownie", "Eat A Doughnut", "Eat Some Pudding", "Eat Some Jelly", "Eat Some Pie", "Eat Some Candy", "Eat A Pastry", "Eat A Crêpe", "Eat A Strudel", "Eat A Biscuit", "Eat Some Fudge", "Eat A Poptart", "Eat Some Parfait",
+                                  "Eat Frozen Yogurt"
+                 ],
+                 "Title_Color": "#5E5CE6FF",
+                 "Background_Color": "#FFF918D8"
+             },
+             {
+                 "Title": "🥞  Breakfast",
+                 "Results": [
+                     "Eat Some Pancakes", "Eat Some Waffles", "Eat Some Eggs", "Eat Some Cereal", "Eat A Doughnut",
+                                  "Eat Some Granola", "Eat Some Yogurt", "Eat Some Fruit", "Eat A Smoothie", "Eat Some Bread",
+                                  "Eat A Bagel", "Eat A Sausage", "Eat Some Bacon", "Eat Some French Toast", "Eat A Pop Tart",
+                                  "Eat A Crêpe", "Eat A Muffin", "Eat A Biscuit", "Eat Some Oatmeal", "Eat A Croissant"
+                 ],
+                 "Title_Color": "#5A7A5CFF",
+                 "Background_Color": "#C1FFCAFF"
+             },
+             {
+                 "Title": "🍟  Snack",
+                 "Results": [
+                     "Eat Chips", "Eat French Fries", "Eat A Fruit", "Eat A Potato", "Eat Some Jerky",
+                                  "Eat A Cracker", "Eat Some Popcorn", "Eat A Cookie", "Eat A Pretzel", "Eat Some Yogurt",
+                                  "Eat Some Hummus", "Eat A Muffin", "Eat Some Cheese", "Eat Edamame", "Eat A Fruit Snack",
+                                  "Eat A Marshmallow", "Eat A Croissant", "Eat Some Nachos", "Eat Fish And Chips"
+                 ],
+                 "Title_Color": "#A82132FF",
+                 "Background_Color": "#BAFFFDFF"
+             },
+             {
+                 "Title": "🥪  Lunch",
+                 "Results": [
+                     "Eat Brunch", "Eat A Quesadillia", "Eat A Sandwich", "Eat Some Noodles", "Eat Some Ramen",
+                                  "Eat Chicken + Rice", "Eat A Wrap", "Eat A Salad", "Eat Some Ricotta", "Eat A Bread Salad",
+                                  "Eat A Taco Bowl", "Eat Mac & Cheese", "Eat Some Pasta", "Eat Some Fried Rice", "Eat A Summer Roll",
+                                  "Eat Some Dumplings", "Eat A Soup", "Drink A Smoothie", "Drink Some Juice", "Eat A Quiche",
+                                  "Eat Some Oatmeal"
+                 ],
+                 "Title_Color": "#E7FFE0FF",
+                 "Background_Color": "#FFAA22FF"
+             },
+             {
+                 "Title": "🌎  World Food",
+                 "Results": [
+                     "Eat Masala Dosa", "Eat Potato Chips", "Eat Seafood Paella", "Eat Som Tam", "Eat Chicken Rice",
+                                  "Eat A Poutine", "Eat Some Tacos", "Eat Buttered Toast", "Eat Stinky Tofu", "Eat Marzipan",
+                                  "Eat French Toast", "Eat Chicken Parm", "Eat Hummus", "Eat Chili Crab", "Eat Maple Syrup",
+                                  "Eat Fish 'N' Chips", "Eat Ankimo", "Eat Parma Ham", "Eat Goi Cuon", "Eat Ohmi-gyu Beef Steak",
+                                  "Eat Pho", "Eat Lechón", "Eat Fajitas", "Eat Butter Garlic Crab", "Eat Champ", "Eat Lasagna",
+                                  "Eat Poke", "Eat A Crossiant", "Eat Arepas", "Eat Bunny Chow", "Eat A Shish Kebab",
+                                  "Eat Pastel De Nate", "Eat Pierogi", "Eat Piri-piri Chicken", "Eat Rendang", "Eat Chicken Muamba",
+                                  "Eat Tom Yum Goong", "Eat Penang Assam Laska", "Eat Peking Duck", "Eat Sushi", "Eat Chocolate",
+                                  "Eat Neapolitan Pizza", "Eat Massaman Curry", "Eat Gyros", "Eat Udon", "Eat A Falafel",
+                                  "Eat Russian Tea Cakes", "Eat Creme Caramel"
+                 ],
+                 "Title_Color": "#5E5CE6FF",
+                 "Background_Color": "#30D158FF"
+             },
+             {
+                 "Title": "🏀  Outdoor Sports",
+                 "Results": [
+                     "Play Basketball", "Play Soccer", "Play Baseball", "Play Football", "Go Surfing",
+                                  "Go Snorkeling", "Go Diving", "Go Boxing", "Go Play Archery", "Play Tennis", "Play Dodgeball",
+                                  "Go Golfing", "Go Play Hockey", "Play Ice Hockey", "Play Volleyball", "Play Ping Pong", "Play Frisbee",
+                                  "Play Cricket", "Go Gliding", "Go Sky Diving", "Play Wiffleball", "Go Skateboarding",
+                                  "Go Unicycling", "Go Horse Racing", "Do Parkour", "Play Paintball",
+                                  "Play Badminton", "Play Polo", "Go Chess Boxing"
+                 ],
+                 "Title_Color": "#7BFF6AFF",
+                 "Background_Color": "#FF76D2FF"
+             },
+             {
+                 "Title": "🥏  Outdoor Casual",
+                 "Results": [
+                     "Play Mini Golf", "Play Hopscotch", "Jump On A Trampoline", "Go For A Walk", "Climb A Tree",
+                                  "Play Frisbee", "Play Golf", "Do Some Yoga"
+                 ],
+                 "Title_Color": "#CE2EFFFF",
+                 "Background_Color": "#82FF06FF"
+             },
+             {
+                 "Title": "🚲  Outdoor Exercise",
+                 "Results": [
+                     "Run/Jog", "Jump on a Jumprope", "Do Some Situps", "Go Kayaking", "Go Canoeing", "Go Rafting",
+                                  "Go Rowing", "Go Scuba Diving", "Go Cycling", "Run A Marathon", "Go Paddle Boating",
+                                  "Go Mountain Biking", "Clean Your House", "Walk Uphill", "Take A Walk", "Jump On A Trampoline",
+                                  "Go Water Biking", "Do Step Ups", "Do Some Pull-ups", "Bench Press", "Do Some Push ups",
+                                  "Do Some Dips", "Do The Plank", "Do A Side Plank", "Go Skipping", "Go Sprinting",
+                                  "Do Some Sit-ups"
+                 ],
+                 "Title_Color": "#8A34FFFF",
+                 "Background_Color": "#B2BBFFFF"
+             },
+             {
+                 "Title": "🎫  Outdoor Places",
+                 "Results": [
+                     "Go To The Beach", "Go To The Countryside", "Go To The City", "Go To The Pool", "Go To The Park",
+                                  "Go To A Campsite", "Go To A Café", "Go To A Lake", "Go To The Zoo", "Go To The Circus",
+                                  "Go To A Market", "Go To The Mountains", "Go To A Concert", "Go To An Event", "Go To A Garden",
+                                  "Go To A Pier", "Go To Another Country", "Go To Another Town", "Go To Another State",
+                                  "Go To A State Park", "Go To A National Park", "Go Fruit Picking"
+
+                 ],
+                 "Title_Color": "#FF9F0AFF",
+                 "Background_Color": "#FFF3B9FF"
+             },
+             {
+                 "Title": "🏕️ Camping",
+                 "Results": [
+                     "Hike", "Bike", "Look At The Sky", "Go Fishing", "Go Swimming", "Go Boating", "Have A Campfire",
+                                  "Play Soccer", "Play Hide & Seek", "Play Tag", "Watch Birds", "Listen To Nature", "Take A Nap",
+                                  "Daydream", "Read A Book", "Study The Stars", "Tell Ghost Stories", "Make S'mores"
+                 ],
+                 "Title_Color": "#652D00FF",
+                 "Background_Color": "#FF776DFF"
+             },
+             {
+                 "Title": "🛋  Indoors Sleepovers",
+                 "Results": [
+                     "Play Board Games", "Watch A Movie", "Play Some Video Games", "Look At Memes", "Play WYR",
+                     "Make Some Food", "Play Bingo", "Talk", "Play Tag", "Play Truth Or Dare", "Make A Commerical",
+                     "Name Tunes", "Eat Some Food", "Have Indoor Camping", "Have A Pillow Fight", "Have A Movie Marathon",
+                     "Tie Dye A Shirt", "Setup Some Tents", "Have A Pillow Fight", "Make A Video", "Carve A Pumpkin", "Make A Jack-o'-lantern"
+                 ],
+                 "Title_Color": "#74E1FFFF",
+                 "Background_Color": "#FF5AECFF"
+             },
+             {
+                 "Title": "🌲 Outdoors Sleepovers",
+                 "Results": [
+                     "Make S'mores", "Play Hide And Seek", "Play Tag", "Play Soccer", "Play Football",
+                                  "Setup Slip-n-Slide", "Play With Squirt Guns", "Take A Walk", "Water Balloon Fight",
+                                  "Play With Silly String", "Setup Tents", "Share Ghost Stories", "Play With Nerf Guns",
+                                  "Have A Bon Fire", "Play WYR"
+                 ],
+                 "Title_Color": "#0E5D5EFF",
+                 "Background_Color": "#97EFECFF"
+             },
+             {
+                 "Title": "🏠  Indoors",
+                 "Results": [
+                     "Take A Nap", "Play A Game", "Watch A Movie", "Watch A TV Show", "Go To A Restaurant",
+                                  "Go To A Museum", "Play Some Music", "Run Up & Down Stairs", "Run In Circles",
+                                  "Play An Instrumenet", "Learn An Instrument", "Go To The Store", "Drink Something",
+                                  "Eat Something", "Read A Book", "Learn A New Language", "Do A Handstand", "Draw Something",
+                                  "Go To A Friend's House", "Call A Friend", "Go To A Café", "Do Some Chores", "Sell Something",
+                                  "Look Out The Window", "Look At A Photo Album", "Make A Fort", "Play With A Pet",
+                                  "Deep Clean Your house", "Watch A Video", "Make A Movie", "Go To The Gym", "Write A Book",
+                                  "Make A Photo Book", "Take A Bath", "Make A Journal", "Listen To A Book", "Make A Care Package",
+                                  "Make Some Food", "Make A Youtube Channel", "Play The Radio", "Play Board Games",
+                                  "Look At Memes"
+                 ],
+                 "Title_Color": "#555555FF",
+                 "Background_Color": "#DCFF9AFF"
+             },
+             {
+                 "Title": "🎼  Music",
+                 "Results": [
+                     "Listen To Pop", "Listen To Jazz", "Listen To Rock", "Listen To Hip Hop", "Listen To Theatre",
+                                  "Listen To Folk", "Listen To Country", "Listen To Blues", "Listen To Rythm & Blues",
+                                  "Listen To Soul", "Listen To EDM", "Listen To Electronic", "Listen To Reggae", "Listen To Disco",
+                                  "Listen To Dance", "Listen To Punk", "Listen To Gospel", "Listen To House", "Listen To Pop Rock",
+                                  "Listen To Instrumental", "Listen To Alt Rock", "Listen To Rap", "Listen To World",
+                                  "Listen To Techno", "Listen To Inide Rock", "Listen To Dubstep", "Listen To Western",
+                                  "Listen To Religous", "Listen To New Wave", "Listen To Art", "Listen To Emo", "Listen To Ballad",
+                                  "Listen To Bluegrass", "Listen To Surf", "Listen To Crossover"
+                 ],
+                 "Title_Color": "#3A4490FF",
+                 "Background_Color": "#F4FF69FF"
+             }
+         ]
+}

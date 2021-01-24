@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Botch.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Botcher (Complication).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>Botcher (Notification).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>Botcher.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>botcherwidgetExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E12DC38C24F40D11001C2E7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1D5561E24F554E800D7E0BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1F598EB24AE21A8000FD7B3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1F5990124AE21A9000FD7B3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E1F5990C24AE21A9000FD7B3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

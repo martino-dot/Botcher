@@ -1,0 +1,32 @@
+PODS:
+  - ChromaColorPicker (2.0.2)
+  - ReachabilitySwift (5.0.0)
+  - SwiftyStoreKit (0.16.1)
+  - UIColor_Hex_Swift (5.1.0)
+  - Valet (4.1.1)
+
+DEPENDENCIES:
+  - ChromaColorPicker
+  - ReachabilitySwift
+  - SwiftyStoreKit
+  - UIColor_Hex_Swift
+  - Valet
+
+SPEC REPOS:
+  trunk:
+    - ChromaColorPicker
+    - ReachabilitySwift
+    - SwiftyStoreKit
+    - UIColor_Hex_Swift
+    - Valet
+
+SPEC CHECKSUMS:
+  ChromaColorPicker: 307585f2dc23d4d72f24cad320c1e08825cb5c09
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+  UIColor_Hex_Swift: 8be7432edacb7fa91c78aa05ef3c30b66e4f9415
+  Valet: 11ab0e318b7284888a81392e36136563b4af5deb
+
+PODFILE CHECKSUM: 75a21e554f69e3a78080a55b2a43fe26eceb981e
+
+COCOAPODS: 1.10.0

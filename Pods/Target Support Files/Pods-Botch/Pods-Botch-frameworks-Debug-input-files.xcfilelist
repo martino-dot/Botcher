@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Botch/Pods-Botch-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ChromaColorPicker/ChromaColorPicker.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SwiftyStoreKit/SwiftyStoreKit.framework
+${BUILT_PRODUCTS_DIR}/UIColor_Hex_Swift/UIColor_Hex_Swift.framework
+${BUILT_PRODUCTS_DIR}/Valet/Valet.framework
