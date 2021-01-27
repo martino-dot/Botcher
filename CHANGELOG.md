@@ -1,4 +1,6 @@
 # Changelog
+## Unreleased
+* Added all pod liscenes
 ## 6.0
 * Changed subscription id.
 * Removed ads
