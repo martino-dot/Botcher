@@ -11,6 +11,12 @@ To contribute any changes, please fork this repository, commit your changes, and
 <img width="200" src="https://github.com/martino-dot/Botcher/blob/master/images/3.png">
 <img width="200" src="https://github.com/martino-dot/Botcher/blob/master/images/4.png">
 
+## Libraries Used
+* <a href="https://github.com/bizz84/SwiftyStoreKit/">SwiftyStoreKit</a>
+* <a href="https://github.com/yeahdongcn/UIColor-Hex-Swift/">UIColor-Hex-Swift</a>
+* <a href="https://github.com/joncardasis/ChromaColorPicker/">ChromaColorPicker</a>
+* <a href="https://github.com/square/Valet/">Valet</a>
+* <a href="https://github.com/ymsheng/ReachabilitySwift/">ReachabilitySwift</a>
 
 ## License
 Botcher uses the Mozilla Public License V2. To see the entirety of it go to the `license.MD` file.
