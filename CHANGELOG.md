@@ -1,6 +1,8 @@
 # Changelog
 ## Unreleased
 * Added all pod liscenes
+* Updated U.I. to include link to github
+* Updated U.I. scaling in "info" tab
 ## 6.0
 * Changed subscription id.
 * Removed ads

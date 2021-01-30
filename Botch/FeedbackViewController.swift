@@ -16,17 +16,28 @@ class FeedbackViewController: UIViewController {
             UIApplication.shared.open(url)
         }
     }
+    
     @IBAction func termsOfService(_ sender: Any) {
         if let url = URL(string: "https://blurrmc.com/Botcher/Terms-of-service/") {
             UIApplication.shared.open(url)
         }
     }
+    
+    @objc func openGithubProject(_ sender: Any) {
+        if let url = URL(string: "https://github.com/martino-dot/botcher") {
+            UIApplication.shared.open(url)
+        }
+    }
+    
     let myValet = Valet.valet(with: Identifier(nonEmpty: "Purchased")!, accessibility: .whenUnlocked)
     
     @IBOutlet weak var restoreButtonOutlet: UIButton!
     @IBOutlet weak var purchaseButtonOutlet: UIButton!
+    @IBOutlet weak var githubProjectImage: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
+        let imageGesture = UITapGestureRecognizer(target: self, action: #selector(openGithubProject(_:)))
+        githubProjectImage.addGestureRecognizer(imageGesture)
     }
     
     override func viewWillAppear(_ animated: Bool) {
