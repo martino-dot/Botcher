@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="f10-cE-DHr">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18121" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="f10-cE-DHr">
     <device id="retina5_9" orientation="portrait" appearance="dark"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18092"/>
         <capability name="Named colors" minToolsVersion="9.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
@@ -129,9 +129,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EiM-ge-bDf">
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EiM-ge-bDf">
                                 <rect key="frame" x="134" y="424" width="107" height="49"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" name="AccentColor"/>
                                 <state key="normal" title="Select">
                                     <color key="titleColor" systemColor="systemIndigoColor"/>
@@ -148,6 +147,10 @@
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="FBu-XC-VUp"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="EiM-ge-bDf" firstAttribute="height" secondItem="uSx-lH-40y" secondAttribute="height" multiplier="0.0603448" constant="1.1000000000000001" id="2mA-9q-K7Z"/>
+                            <constraint firstItem="EiM-ge-bDf" firstAttribute="width" secondItem="uSx-lH-40y" secondAttribute="width" multiplier="0.285333" constant="1.1000000000000001" id="qRV-cm-vNJ"/>
+                        </constraints>
                     </view>
                     <connections>
                         <outlet property="selectButton" destination="EiM-ge-bDf" id="TAa-ng-7mn"/>
@@ -382,7 +385,7 @@ Cg
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cell" id="IQm-bV-OC5" customClass="CustomCategoryTableViewCell" customModule="Botch" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="28" width="375" height="77"/>
+                                        <rect key="frame" x="0.0" y="24.333333969116211" width="375" height="77"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="IQm-bV-OC5" id="1kF-rS-AW4">
                                             <rect key="frame" x="0.0" y="0.0" width="375" height="77"/>
@@ -456,7 +459,7 @@ Cg
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="ExploreTableViewCell" id="9Uf-qd-Lro" customClass="ExploreTableViewCell" customModule="Botch" customModuleProvider="target">
-                                <rect key="frame" x="0.0" y="28" width="375" height="77"/>
+                                <rect key="frame" x="0.0" y="24.333333969116211" width="375" height="77"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="9Uf-qd-Lro" id="78v-5R-qg9">
                                     <rect key="frame" x="0.0" y="0.0" width="375" height="77"/>

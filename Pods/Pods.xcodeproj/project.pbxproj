@@ -187,20 +187,20 @@
 		1999D7099A559EE617283D72F02DFE80 /* InAppProductQueryRequest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InAppProductQueryRequest.swift; path = Sources/SwiftyStoreKit/InAppProductQueryRequest.swift; sourceTree = "<group>"; };
 		1A7734F6A23E77F2A598A3DA67355470 /* SKProductDiscount+LocalizedPrice.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "SKProductDiscount+LocalizedPrice.swift"; path = "Sources/SwiftyStoreKit/SKProductDiscount+LocalizedPrice.swift"; sourceTree = "<group>"; };
 		1DA902CD44505F8C88E3175C162AEAC1 /* Pods-Botch-BotchUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Botch-BotchUITests-Info.plist"; sourceTree = "<group>"; };
-		21B03CA622E690725A6626C088E1D09F /* Reachability.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Reachability.framework; path = ReachabilitySwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		21B03CA622E690725A6626C088E1D09F /* Reachability.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Reachability.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		21BA6AF22C6F9A427FE946606F0D6D0B /* RestorePurchasesController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RestorePurchasesController.swift; path = Sources/SwiftyStoreKit/RestorePurchasesController.swift; sourceTree = "<group>"; };
 		229F630B5DDCC78DEEA9C89E895B8334 /* Pods-Botch-BotchUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Botch-BotchUITests-umbrella.h"; sourceTree = "<group>"; };
 		23CA614F192F9607B1F3EDE686CBBDC4 /* Pods-BotchTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BotchTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		245218976ECD4C0EA7D0621FDBD6EA54 /* MigratableKeyValuePair.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MigratableKeyValuePair.swift; path = Sources/Valet/MigratableKeyValuePair.swift; sourceTree = "<group>"; };
-		24B919705542F19BB18068E22A1B9A82 /* Pods_BotchTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BotchTests.framework; path = "Pods-BotchTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		24B919705542F19BB18068E22A1B9A82 /* Pods_BotchTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BotchTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		27FA0DB480B53857D28F8490B5673687 /* Valet.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Valet.swift; path = Sources/Valet/Valet.swift; sourceTree = "<group>"; };
 		28FD74BB2442100381F31B5184CD4987 /* KeychainError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeychainError.swift; path = Sources/Valet/KeychainError.swift; sourceTree = "<group>"; };
 		2955B445445D091185108382F8CAF545 /* Pods-BotchTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BotchTests.release.xcconfig"; sourceTree = "<group>"; };
 		2AD02563ED34FA653CCBACB96C96D402 /* SwiftyStoreKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SwiftyStoreKit-Info.plist"; sourceTree = "<group>"; };
-		2D173AA5A317AEFAE4FFC1B7E903E6B0 /* Pods_Botch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Botch.framework; path = "Pods-Botch.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D173AA5A317AEFAE4FFC1B7E903E6B0 /* Pods_Botch.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Botch.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DA043D18C48F9ADF5412E2A7CED2CAB /* ReachabilitySwift-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ReachabilitySwift-Info.plist"; sourceTree = "<group>"; };
 		2EA71D8BBA116A25026370C3B1EADA8A /* Pods-BotchTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BotchTests-Info.plist"; sourceTree = "<group>"; };
-		32B68D5B8C0127052BE81786F59B46F6 /* SwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyStoreKit.framework; path = SwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		32B68D5B8C0127052BE81786F59B46F6 /* SwiftyStoreKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyStoreKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		338A7748A60CDD094B0DC71E5F8C6D38 /* Service.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Service.swift; path = Sources/Valet/Internal/Service.swift; sourceTree = "<group>"; };
 		36847626F500E8D2EFE6D46C31A47B6C /* Configuration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Configuration.swift; path = Sources/Valet/Internal/Configuration.swift; sourceTree = "<group>"; };
 		3B70B0A47FC21AA548991A3673EB1DE2 /* Pods-Botch-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Botch-frameworks.sh"; sourceTree = "<group>"; };
@@ -219,7 +219,7 @@
 		54C58E3953FD1DC3CC194AA90217B94D /* UIView+DropShadow.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+DropShadow.swift"; path = "Source/Extensions/UIView+DropShadow.swift"; sourceTree = "<group>"; };
 		561DF8712EB8E000B12A8BE2B1E8B37E /* ChromaControlStylable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChromaControlStylable.swift; path = Source/ChromaControlStylable.swift; sourceTree = "<group>"; };
 		57084D017060F6F433054358C5D066E5 /* ColorWheelView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ColorWheelView.swift; path = Source/ColorWheelView.swift; sourceTree = "<group>"; };
-		58FA08FD4595D3CA9B2AA81405DE2EFA /* UIColor_Hex_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = UIColor_Hex_Swift.framework; path = UIColor_Hex_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		58FA08FD4595D3CA9B2AA81405DE2EFA /* UIColor_Hex_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UIColor_Hex_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		598EBF12766D6641235D09D3280E62C1 /* UIColor+Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Utils.swift"; path = "Source/Extensions/UIColor+Utils.swift"; sourceTree = "<group>"; };
 		5A3EB3A09F613AD31039F58F415A0E4A /* SwiftyStoreKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyStoreKit-umbrella.h"; sourceTree = "<group>"; };
 		6024F25B6269339328FAFBA698906727 /* SecureEnclave.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SecureEnclave.swift; path = Sources/Valet/SecureEnclave.swift; sourceTree = "<group>"; };
@@ -246,7 +246,7 @@
 		93026487F39C7DA3CAEE7E634C6FAA2D /* SharedGroupIdentifier.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SharedGroupIdentifier.swift; path = Sources/Valet/SharedGroupIdentifier.swift; sourceTree = "<group>"; };
 		93803366986BDF8F1A26AA5DE57C2BE6 /* InAppReceiptVerificator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InAppReceiptVerificator.swift; path = Sources/SwiftyStoreKit/InAppReceiptVerificator.swift; sourceTree = "<group>"; };
 		94676D504A34D85DFB370A3886A77665 /* Valet.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Valet.release.xcconfig; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F4BD847E3C1A9B48BC88C103BEC9500 /* UIColor+Brightness.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Brightness.swift"; path = "Source/Extensions/UIColor+Brightness.swift"; sourceTree = "<group>"; };
 		9FA5679A2EE6C2E1FEED802ECF21F774 /* UIColorInputError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIColorInputError.swift; path = HEXColor/UIColorInputError.swift; sourceTree = "<group>"; };
 		9FC7BCD7558CA27C7D826EEEA4E13E59 /* ReachabilitySwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ReachabilitySwift-umbrella.h"; sourceTree = "<group>"; };
@@ -257,7 +257,7 @@
 		A9CA3B0FCBAAE7BED7F8F63688CA14A9 /* Pods-Botch-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Botch-umbrella.h"; sourceTree = "<group>"; };
 		AAD55A2807EB92B53C340214DDF047EF /* MigrationError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MigrationError.swift; path = Sources/Valet/MigrationError.swift; sourceTree = "<group>"; };
 		B16842C9BCBDC6012E952C19398A8E73 /* ChromaColorHandle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChromaColorHandle.swift; path = "Source/Supporting Views/ChromaColorHandle.swift"; sourceTree = "<group>"; };
-		B3081E0CFC54E0C89C7B6D481B03DC95 /* Valet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Valet.framework; path = Valet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3081E0CFC54E0C89C7B6D481B03DC95 /* Valet.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Valet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4B7E3C18B8675D4308B268E8CE6800C /* Valet-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Valet-umbrella.h"; sourceTree = "<group>"; };
 		B6E5A30E33C15154515E378AC8BE0A56 /* ReachabilitySwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ReachabilitySwift.release.xcconfig; sourceTree = "<group>"; };
 		B7FD1FB323F40CA18F10B05E3173FE50 /* ReachabilitySwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ReachabilitySwift.debug.xcconfig; sourceTree = "<group>"; };
@@ -266,7 +266,7 @@
 		BCFC187C1F7324FD3AEFF7F4EFF22964 /* CompleteTransactionsController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CompleteTransactionsController.swift; path = Sources/SwiftyStoreKit/CompleteTransactionsController.swift; sourceTree = "<group>"; };
 		BE8ECD82433A12E3FB344720B3F8060D /* Pods-Botch-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Botch-dummy.m"; sourceTree = "<group>"; };
 		BEAD3ED4F342C59E8118EBF40F6BDE44 /* Valet-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Valet-Info.plist"; sourceTree = "<group>"; };
-		BEF7B2D3E39CD2B120ADBDC24454C71C /* Pods_Botch_BotchUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Botch_BotchUITests.framework; path = "Pods-Botch-BotchUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEF7B2D3E39CD2B120ADBDC24454C71C /* Pods_Botch_BotchUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Botch_BotchUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C118560D2C2BFABA0A4D85D615CF7090 /* Valet-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Valet-dummy.m"; sourceTree = "<group>"; };
 		C3B5C09B7EDBE96D3AE304898B73223D /* Pods-Botch-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Botch-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C44DB92859CD27B337723A2867DEC24E /* InAppReceiptRefreshRequest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InAppReceiptRefreshRequest.swift; path = Sources/SwiftyStoreKit/InAppReceiptRefreshRequest.swift; sourceTree = "<group>"; };
@@ -276,7 +276,7 @@
 		CC4BB2FEA3997F8301C648F8717AC335 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Security.framework; sourceTree = DEVELOPER_DIR; };
 		CE366C6DB4F14C2DFAD727C9A595372E /* Pods-Botch-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Botch-Info.plist"; sourceTree = "<group>"; };
 		CF9D341CAC86423EDBE9290E55B69BBA /* UIColor_Hex_Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = UIColor_Hex_Swift.release.xcconfig; sourceTree = "<group>"; };
-		D40FF0F11E7F2EF29D1A92D25FB2D60D /* ChromaColorPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ChromaColorPicker.framework; path = ChromaColorPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D40FF0F11E7F2EF29D1A92D25FB2D60D /* ChromaColorPicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ChromaColorPicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D81A1E03D41835C8F6F53E4FD1A61FC1 /* ProductsInfoController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProductsInfoController.swift; path = Sources/SwiftyStoreKit/ProductsInfoController.swift; sourceTree = "<group>"; };
 		D9B15B7BF1F1A6E33D857BBF6AC20143 /* Pods-Botch-BotchUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Botch-BotchUITests.modulemap"; sourceTree = "<group>"; };
 		E43DC7AD0CBF4171CCB6A4AB86C05A0E /* Pods-BotchTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BotchTests-dummy.m"; sourceTree = "<group>"; };
@@ -398,7 +398,6 @@
 				A7016803738605A34305CA2C163271EE /* SwiftyStoreKit+Types.swift */,
 				C0A9A417F777F94F4EB3D050317BC72E /* Support Files */,
 			);
-			name = SwiftyStoreKit;
 			path = SwiftyStoreKit;
 			sourceTree = "<group>";
 		};
@@ -411,7 +410,6 @@
 				9FA5679A2EE6C2E1FEED802ECF21F774 /* UIColorInputError.swift */,
 				07CF1FF70309BD3BC7FB1EAAD10538F6 /* Support Files */,
 			);
-			name = UIColor_Hex_Swift;
 			path = UIColor_Hex_Swift;
 			sourceTree = "<group>";
 		};
@@ -459,7 +457,6 @@
 				27FA0DB480B53857D28F8490B5673687 /* Valet.swift */,
 				87A5DCC7FDF67B6B136C53481F5A4AEC /* Support Files */,
 			);
-			name = Valet;
 			path = Valet;
 			sourceTree = "<group>";
 		};
@@ -496,7 +493,6 @@
 				7C85D5A67E54B6A236906990AA2B1741 /* Reachability.swift */,
 				C7F99D86CD88B15F278B2E3C6BFC1668 /* Support Files */,
 			);
-			name = ReachabilitySwift;
 			path = ReachabilitySwift;
 			sourceTree = "<group>";
 		};
@@ -516,7 +512,6 @@
 				483AA5431FC594AF12FD2D8078461C14 /* UIView+Utils.swift */,
 				6CD9EF00770F3E8B171B53965D28F2CE /* Support Files */,
 			);
-			name = ChromaColorPicker;
 			path = ChromaColorPicker;
 			sourceTree = "<group>";
 		};

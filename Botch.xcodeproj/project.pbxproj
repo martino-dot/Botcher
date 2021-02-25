@@ -130,6 +130,7 @@
 		E12DC39624F40D13001C2E7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E12DC39824F40D13001C2E7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E130E7C0257BD87A006CA3F5 /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		E137C98225E7499F003445BE /* botcherwidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = botcherwidgetExtension.entitlements; sourceTree = "<group>"; };
 		E16BB2F7257BE5DD008BABB3 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		E170F19524F49CB800CF2DE0 /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		E170F19724F4A32000CF2DE0 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Category.swift; path = botcherwidget/Category.swift; sourceTree = SOURCE_ROOT; };
@@ -247,6 +248,7 @@
 		E1F598E324AE21A8000FD7B3 = {
 			isa = PBXGroup;
 			children = (
+				E137C98225E7499F003445BE /* botcherwidgetExtension.entitlements */,
 				E170F19524F49CB800CF2DE0 /* CHANGELOG.md */,
 				E1F598EE24AE21A8000FD7B3 /* Botch */,
 				E1F5990524AE21A9000FD7B3 /* BotchTests */,
@@ -676,9 +678,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = botcherwidgetExtension.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 693PKCRWW3;
 				INFOPLIST_FILE = botcherwidget/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -687,12 +690,12 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 6.0;
+				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch.botchwidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -703,9 +706,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = botcherwidgetExtension.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 693PKCRWW3;
 				INFOPLIST_FILE = botcherwidget/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -714,12 +718,12 @@
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 6.0;
+				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch.botchwidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
@@ -850,20 +854,21 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_ENTITLEMENTS = Botch/Botch.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 693PKCRWW3;
 				INFOPLIST_FILE = Botch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = p7.0;
+				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -876,20 +881,21 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_ENTITLEMENTS = Botch/Botch.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_TEAM = 693PKCRWW3;
 				INFOPLIST_FILE = Botch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = p7.0;
+				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
