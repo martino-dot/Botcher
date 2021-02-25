@@ -26,6 +26,7 @@
 		E16BB2F8257BE5DD008BABB3 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16BB2F7257BE5DD008BABB3 /* MainViewController.swift */; };
 		E170F19824F4A32000CF2DE0 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = E170F19724F4A32000CF2DE0 /* Category.swift */; };
 		E170F19924F4A70300CF2DE0 /* Botcher.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E1D4F38424F04827008E8CC1 /* Botcher.xcdatamodeld */; };
+		E179F01725E86A63003E14F2 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E179F01625E86A63003E14F2 /* TabBarController.swift */; };
 		E1B1F3E8257BC506000D16D9 /* ExploreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1B1F3E7257BC506000D16D9 /* ExploreTableViewCell.swift */; };
 		E1BEECA5250537AD0047C787 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1BEECA4250537AD0047C787 /* StoreKit.framework */; };
 		E1C6DD192573E95600F860B5 /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C6DD182573E95600F860B5 /* ExploreViewController.swift */; };
@@ -134,6 +135,7 @@
 		E16BB2F7257BE5DD008BABB3 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		E170F19524F49CB800CF2DE0 /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		E170F19724F4A32000CF2DE0 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Category.swift; path = botcherwidget/Category.swift; sourceTree = SOURCE_ROOT; };
+		E179F01625E86A63003E14F2 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		E1B1F3E7257BC506000D16D9 /* ExploreTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreTableViewCell.swift; sourceTree = "<group>"; };
 		E1BEECA4250537AD0047C787 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		E1C6DD182573E95600F860B5 /* ExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
@@ -291,6 +293,7 @@
 				E11A462C24AF7DCA0011D30F /* FeedbackViewController.swift */,
 				E1FB347024AF5E68006C453A /* ResultsViewController.swift */,
 				E1C6DD182573E95600F860B5 /* ExploreViewController.swift */,
+				E179F01625E86A63003E14F2 /* TabBarController.swift */,
 				E1F598F824AE21A9000FD7B3 /* Assets.xcassets */,
 				E1F598FA24AE21A9000FD7B3 /* LaunchScreen.storyboard */,
 				E1F598FD24AE21A9000FD7B3 /* Info.plist */,
@@ -603,6 +606,7 @@
 				E12DC39A24F40D13001C2E7A /* botcherwidget.intentdefinition in Sources */,
 				E1D4F38124EF372F008E8CC1 /* AddViewController.swift in Sources */,
 				E1C6DD192573E95600F860B5 /* ExploreViewController.swift in Sources */,
+				E179F01725E86A63003E14F2 /* TabBarController.swift in Sources */,
 				E1F598F024AE21A8000FD7B3 /* AppDelegate.swift in Sources */,
 				E1DDA36024EF32AD00776485 /* CustomCategoriesViewController.swift in Sources */,
 				E1D4F38624F04827008E8CC1 /* Botcher.xcdatamodeld in Sources */,
