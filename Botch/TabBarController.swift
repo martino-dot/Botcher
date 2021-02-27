@@ -26,7 +26,7 @@ extension MyTabBarController: UITabBarControllerDelegate {
 class MyTransition: NSObject, UIViewControllerAnimatedTransitioning {
 
     let viewControllers: [UIViewController]?
-    let transitionDuration: Double = 1
+    let transitionDuration: Double = 0.5
 
     init(viewControllers: [UIViewController]?) {
         self.viewControllers = viewControllers
