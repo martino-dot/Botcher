@@ -2,7 +2,6 @@
 ## 7.0
 * Added new animations
 * Updated U.I. in color select menu
-* Added mac support
 * Added all pod liscenes
 * Updated U.I. to include link to github
 * Updated U.I. scaling in "info" tab

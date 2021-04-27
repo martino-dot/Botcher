@@ -10,13 +10,13 @@
 		12D9CCCEC880AC4AE12B6118 /* Pods_Botch_BotchUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F295F910D2FA9390E1288553 /* Pods_Botch_BotchUITests.framework */; };
 		58C7820E5C119BB816554E7A /* Pods_Botch.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72E54D3248E2A52837AE3E75 /* Pods_Botch.framework */; };
 		A3B1AA87D13633699ABB699A /* Pods_BotchTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CE1E02134E943FAF41D3F0C /* Pods_BotchTests.framework */; };
-		E108096A24F5EE3F00D8B68B /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1DDA35B24EF304900776485 /* CloudKit.framework */; };
+		E108096A24F5EE3F00D8B68B /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E1DDA35B24EF304900776485 /* CloudKit.framework */; platformFilter = ios; };
 		E10E795424F13B0400E0A2BB /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E10E795324F13B0400E0A2BB /* Settings.bundle */; };
 		E10E795624F1460300E0A2BB /* Intents.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E10E795524F1460300E0A2BB /* Intents.framework */; };
 		E10E795824F1460900E0A2BB /* IntentsUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E10E795724F1460900E0A2BB /* IntentsUI.framework */; };
 		E11A462D24AF7DCA0011D30F /* FeedbackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E11A462C24AF7DCA0011D30F /* FeedbackViewController.swift */; };
 		E12DC38F24F40D11001C2E7A /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E12DC38E24F40D11001C2E7A /* WidgetKit.framework */; platformFilter = ios; };
-		E12DC39124F40D11001C2E7A /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E12DC39024F40D11001C2E7A /* SwiftUI.framework */; };
+		E12DC39124F40D11001C2E7A /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E12DC39024F40D11001C2E7A /* SwiftUI.framework */; platformFilter = ios; };
 		E12DC39424F40D11001C2E7A /* botcherwidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = E12DC39324F40D11001C2E7A /* botcherwidget.swift */; };
 		E12DC39724F40D13001C2E7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E12DC39624F40D13001C2E7A /* Assets.xcassets */; };
 		E12DC39924F40D13001C2E7A /* botcherwidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = E12DC39524F40D11001C2E7A /* botcherwidget.intentdefinition */; };
@@ -699,7 +699,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -727,7 +727,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
@@ -864,7 +864,6 @@
 				DEVELOPMENT_TEAM = 693PKCRWW3;
 				INFOPLIST_FILE = Botch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -872,7 +871,7 @@
 				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -891,7 +890,6 @@
 				DEVELOPMENT_TEAM = 693PKCRWW3;
 				INFOPLIST_FILE = Botch/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 13.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -899,7 +897,7 @@
 				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
