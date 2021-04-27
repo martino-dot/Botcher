@@ -18,5 +18,8 @@ To contribute any changes, please fork this repository, commit your changes, and
 * <a href="https://github.com/square/Valet/">Valet</a>
 * <a href="https://github.com/ymsheng/ReachabilitySwift/">ReachabilitySwift</a>
 
+## Problems Building Botcher
+Sometimes pods get screwed up in this repository and may cause this project to fail while building. A fix for your local machine would be to delete the ```pods``` folder and ```Botch.xcworkspace```, then do ```pod install``` in terminal. If your issue with pods still persists, open an issue on Github.
+
 ## License
 Botcher uses the Mozilla Public License V2. To see the entirety of it go to the `license.MD` file.
