@@ -1,5 +1,5 @@
 # Changelog
-## Unreleased (7.0)
+## 7.0
 * Added new animations
 * Updated U.I. in color select menu
 * Added mac support
