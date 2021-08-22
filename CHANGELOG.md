@@ -1,4 +1,6 @@
 # Changelog
+## 7.5
+* Bug fixes
 ## 7.0
 * Added new animations
 * Updated U.I. in color select menu
