@@ -2,7 +2,7 @@ PODS:
   - ChromaColorPicker (2.0.2)
   - ReachabilitySwift (5.0.0)
   - SwiftyStoreKit (0.16.1)
-  - UIColor_Hex_Swift (5.1.6)
+  - UIColor_Hex_Swift (5.1.7)
   - Valet (4.1.1)
 
 DEPENDENCIES:
@@ -24,9 +24,9 @@ SPEC CHECKSUMS:
   ChromaColorPicker: 307585f2dc23d4d72f24cad320c1e08825cb5c09
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
   SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
-  UIColor_Hex_Swift: e9d400d774c9b31d82801ca76b5301a38086f590
+  UIColor_Hex_Swift: 31cd3e47440f07a20d2503a36bb0437a445b3c29
   Valet: 11ab0e318b7284888a81392e36136563b4af5deb
 
 PODFILE CHECKSUM: 75a21e554f69e3a78080a55b2a43fe26eceb981e
 
-COCOAPODS: 1.10.2
+COCOAPODS: 1.11.2

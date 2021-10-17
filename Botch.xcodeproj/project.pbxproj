@@ -21,7 +21,7 @@
 		E12DC39724F40D13001C2E7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E12DC39624F40D13001C2E7A /* Assets.xcassets */; };
 		E12DC39924F40D13001C2E7A /* botcherwidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = E12DC39524F40D11001C2E7A /* botcherwidget.intentdefinition */; };
 		E12DC39A24F40D13001C2E7A /* botcherwidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = E12DC39524F40D11001C2E7A /* botcherwidget.intentdefinition */; };
-		E12DC39D24F40D13001C2E7A /* botcherwidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E12DC38D24F40D11001C2E7A /* botcherwidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		E12DC39D24F40D13001C2E7A /* botcherwidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = E12DC38D24F40D11001C2E7A /* botcherwidgetExtension.appex */; platformFilter = ios; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		E130E7C1257BD87A006CA3F5 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = E130E7C0257BD87A006CA3F5 /* data.json */; };
 		E16BB2F8257BE5DD008BABB3 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16BB2F7257BE5DD008BABB3 /* MainViewController.swift */; };
 		E170F19824F4A32000CF2DE0 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = E170F19724F4A32000CF2DE0 /* Category.swift */; };
@@ -408,7 +408,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1200;
-				LastUpgradeCheck = 1220;
+				LastUpgradeCheck = 1300;
 				TargetAttributes = {
 					E12DC38C24F40D11001C2E7A = {
 						CreatedOnToolsVersion = 12.0;
@@ -642,6 +642,7 @@
 /* Begin PBXTargetDependency section */
 		E12DC39C24F40D13001C2E7A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
+			platformFilter = ios;
 			target = E12DC38C24F40D11001C2E7A /* botcherwidgetExtension */;
 			targetProxy = E12DC39B24F40D13001C2E7A /* PBXContainerItemProxy */;
 		};
@@ -699,7 +700,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -727,7 +728,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
@@ -789,7 +790,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -846,6 +847,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -871,7 +873,7 @@
 				MARKETING_VERSION = 7.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -897,7 +899,7 @@
 				MARKETING_VERSION = 7.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blurrmc.botch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

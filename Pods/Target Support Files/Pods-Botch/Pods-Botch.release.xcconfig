@@ -3,7 +3,8 @@ CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
 FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/ChromaColorPicker" "${PODS_CONFIGURATION_BUILD_DIR}/ReachabilitySwift" "${PODS_CONFIGURATION_BUILD_DIR}/SwiftyStoreKit" "${PODS_CONFIGURATION_BUILD_DIR}/UIColor_Hex_Swift" "${PODS_CONFIGURATION_BUILD_DIR}/Valet"
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/ChromaColorPicker/ChromaColorPicker.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/ReachabilitySwift/Reachability.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/SwiftyStoreKit/SwiftyStoreKit.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/UIColor_Hex_Swift/UIColor_Hex_Swift.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/Valet/Valet.framework/Headers"
-LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+LD_RUNPATH_SEARCH_PATHS = $(inherited) /usr/lib/swift '@executable_path/Frameworks' '@loader_path/Frameworks'
+LIBRARY_SEARCH_PATHS = $(inherited) "${DT_TOOLCHAIN_DIR}/usr/lib/swift/${PLATFORM_NAME}" /usr/lib/swift
 OTHER_LDFLAGS = $(inherited) -framework "ChromaColorPicker" -framework "CoreTelephony" -framework "Reachability" -framework "Security" -framework "SwiftyStoreKit" -framework "SystemConfiguration" -framework "UIColor_Hex_Swift" -framework "UIKit" -framework "Valet"
 OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS
 PODS_BUILD_DIR = ${BUILD_DIR}

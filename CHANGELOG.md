@@ -1,4 +1,10 @@
 # Changelog
+
+# MacOS
+## 1.0
+* First release (added support for macOS)
+
+# iOS
 ## 7.5
 * Bug fixes
 ## 7.0
