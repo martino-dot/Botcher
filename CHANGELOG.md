@@ -1,8 +1,9 @@
 # Changelog
 
 # MacOS
-## 1.0
+## 7.0
 * First release (added support for macOS)
+Also, macOS starts at 7.0 and will skip version 7.5 since it's behind the iOS version and they need to be on the same version otherwise it starts to get annoying having to change version number for macOS and iOS.
 
 # iOS
 ## 7.5
